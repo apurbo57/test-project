@@ -1,0 +1,12 @@
+[17-Nov-2023 12:51:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/stticomb/public_html/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/stticomb/public_html/config/sanctum.php on line 18
+[17-Nov-2023 13:02:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/stticomb/public_html/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/stticomb/public_html/config/session.php on line 21
+[17-Nov-2023 19:29:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/stticomb/public_html/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/stticomb/public_html/config/broadcasting.php on line 18

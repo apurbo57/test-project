@@ -1,0 +1,4 @@
+[18-Nov-2023 06:41:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/stticomb/public_html/app/Models/certificate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/stticomb/public_html/app/Models/certificate.php on line 8

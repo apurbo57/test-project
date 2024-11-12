@@ -1,0 +1,17 @@
+{
+    "itc edwardian script w04 reg": {
+        "normal": "itc_edwardian_script_w04_reg_normal_d7b2f2dc0c0ea565181c6f74cdbac75a"
+    },
+    "my-custom-font": {
+        "normal": "my_custom_font_normal_7467cf63d803d42f8cfeb975beee66e6"
+    },
+    "sutonnymj": {
+        "normal": "sutonnymj_normal_7467cf63d803d42f8cfeb975beee66e6"
+    },
+    "sutonnyomj": {
+        "normal": "sutonnyomj_normal_c9d18a557ea0a1a45fd5d96f202a83b6"
+    },
+    "edwardian": {
+        "normal": "edwardian_normal_a64467881f17e0f962120b216ec2d454"
+    }
+}
